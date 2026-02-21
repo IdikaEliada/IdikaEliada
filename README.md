@@ -51,8 +51,8 @@ I'm a software engineer and fullstack web2, web3 and mobile developer based in N
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/Kingjohneycodey)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Kingjohneycodey)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IdikaEliada&theme=dark" alt="IdikaEliada" /></p>
-
 ## 📊 GitHub Stats
 
-![Idika's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdikaEliada&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IdikaEliada&theme=dark" alt="IdikaEliada" /></p>
+
+[!Idika's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdikaEliada&show_icons=true&theme=radical)
