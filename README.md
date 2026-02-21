@@ -31,7 +31,7 @@ I'm a software engineer and fullstack web2, web3 and mobile developer based in N
 - ✅ I have also worked on open source projects for the benefit of the society. -->
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,git,arduino,react,ts,cpp,firebase,github,linkedin,kali,nextjs,netlify,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,git,arduino,react,ts,cpp,firebase,github,linkedin,kali,nextjs,netlify,mysql,mongodb,nodejs,ps,postman,npm,rust)](https://skillicons.dev)
 
 #### Languages
 (https://skillicons.dev/icons?i=js,ts,react,nodejs,php,mysql,git)
