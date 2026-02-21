@@ -33,6 +33,7 @@ I'm a software engineer and fullstack web2, web3 and mobile developer based in N
 ## Skills
 
 #### Languages
+(https://skillicons.dev/icons?i=js,ts,react,nodejs,php,mysql,git)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/IdikaEliada)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/IdikaEliada)
 [![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Kingjohneycodey)
