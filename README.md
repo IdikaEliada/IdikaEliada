@@ -36,7 +36,7 @@ I'm a software engineer and fullstack web2, web3 and mobile developer based in N
 [![My Skills](https://skillicons.dev/icons?i=tailwind,ts,firebase,git,nextjs,rust&perline=6)](https://skillicons.dev)
 
 #### Other tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,git,arduino,react,ts,cpp,firebase,github,linkedin,kali,nextjs,netlify,mysql,mongodb,nodejs,ps,postman,npm,rust&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,arduino,react,cpp,github,linkedin,kali,netlify,mysql,mongodb,nodejs,ps,postman,npm,babel,bash,aws,autocad,bootstrap,flutter,discord,eclipse,docker,express,fastapi,figma,githubactions,html,java,js,jquery,kali,linux,md,materialui,gradle,maven,nodejs,notion,pnpm,postgres,powershell,pycharm,py,redis,regex,replit,supabase,stackoverflow,sqlite,sass,vscode,vite,twitter,svg,webpack&perline=10)](https://skillicons.dev)
 
 #### Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/IdikaEliada)
