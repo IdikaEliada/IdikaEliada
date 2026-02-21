@@ -33,7 +33,7 @@ I'm a software engineer and fullstack web2, web3 and mobile developer based in N
 ## Skills
 
 #### Top tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,tailwind,ts,firebase,github,nextjs,mongodb,ps,postman,npm,rust&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,firebase,git,nextjs,rust&perline=6)](https://skillicons.dev)
 
 #### Other tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,git,arduino,react,ts,cpp,firebase,github,linkedin,kali,nextjs,netlify,mysql,mongodb,nodejs,ps,postman,npm,rust&perline=15)](https://skillicons.dev)
