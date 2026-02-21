@@ -65,3 +65,14 @@ I'm a software engineer (in the making) and fullstack web2, web3 and mobile deve
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IdikaEliada)](https://git.io/streak-stats)
 
 [!Idika's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdikaEliada&show_icons=true&theme=radical)
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IdikaEliada&show_icons=true&theme=radical" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdikaEliada&layout=compact&theme=radical" alt="Top Langs" width="40%" />
+</div>
+
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=IdikaEliada&theme=radical)](https://git.io/streak-stats)
+</div>
