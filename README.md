@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 My name is Ibiam Idika also known as Idika Eliada.
 
-I'm a software engineer and fullstack web2, web3 and mobile developer based in Nigeria who is passionate about everything related to software development and technology. When I'm not coding, you can find me playing chess, watching movies or reading developer blogs.
+I'm a software engineer (in the making) and fullstack web2, web3 and mobile developer based in Nigeria who is passionate about everything related to software development and technology. When I'm not coding, you can find me playing chess, watching movies or reading developer blogs.
 
-## About Me
-<!-- Location: Owerri, Nigeria
+<!--## About Me
+<-- Location: Owerri, Nigeria
 - Industry Experience: 3+ years
 - Education: Studying for Bachelor of Science in Software Engineering
--->
+
 ## Projects
-<!-- 🌐 I have built web solutions for various clients, creating responsive and user-friendly websites that meet their specific needs.
+-- 🌐 I have built web solutions for various clients, creating responsive and user-friendly websites that meet their specific needs.
 - 🌱 Additionally, I have worked on different ecommerce and management systems for schools, offices, businesses and large companies.
 - ✅ I have also worked on open source projects for the benefit of the society. -->
 
