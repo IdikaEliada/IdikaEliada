@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **IdikaEliada/IdikaEliada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# 👋 Hello! 
+
+# 👋 Hello! -->
 
 My name is Ibiam Idika also known as Idika Eliada.
 
@@ -51,4 +51,4 @@ I'm a software engineer and fullstack web2, web3 and mobile developer based in N
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/Kingjohneycodey)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Kingjohneycodey)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kingjohneycodey&theme=dark" alt="Kingjohneycodey" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IdikaEliada&theme=dark" alt="IdikaEliada" /></p>
