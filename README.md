@@ -38,6 +38,7 @@ I'm a software engineer (in the making) and fullstack web2, web3 and mobile deve
 <!--#### Other tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,arduino,react,cpp,github,linkedin,kali,netlify,mysql,mongodb,nodejs,ps,postman,npm,babel,bash,aws,autocad,bootstrap,flutter,discord,eclipse,docker,express,fastapi,figma,githubactions,html,java,js,jquery,kali,linux,md,materialui,gradle,maven,nodejs,notion,pnpm,postgres,powershell,pycharm,py,redis,regex,replit,supabase,stackoverflow,sqlite,sass,vscode,vite,twitter,svg,webpack&perline=10)](https://skillicons.dev)
 -->
+<!--
 #### Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/IdikaEliada)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/IdikaEliada)
@@ -55,7 +56,7 @@ I'm a software engineer (in the making) and fullstack web2, web3 and mobile deve
 [![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/IdikaEliada)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/Kingjohneycodey)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Kingjohneycodey)
-
+-->
 ## GitHub Stats
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IdikaEliada&theme=dark" alt="IdikaEliada" /></p>
