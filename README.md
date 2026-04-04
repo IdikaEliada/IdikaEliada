@@ -26,8 +26,8 @@ I'm a software engineer (in the making) and fullstack web2, web3 and mobile deve
 - Education: Studying for Bachelor of Science in Software Engineering
 -->
 ## Projects
--- 🌐 I have built web solutions for various clients, creating responsive and user-friendly websites that meet their specific needs.
-- 🌱 Additionally, I have worked on different ecommerce and management systems for schools, offices, businesses and large companies.
+<!-- 🌐 I have built web solutions for various clients, creating responsive and user-friendly websites that meet their specific needs.
+- 🌱 Additionally, I have worked on different ecommerce and management systems for schools, offices, businesses and large companies.-->
 - ✅ I have also worked on open source projects for the benefit of the society.
 - I built IdikaEliada/futo-departments, a TypeScript-first data package providing structured information about faculties and departments at the Federal University of Technology Owerri.
 - I developed IdikaEliada/verrify, a JavaScript-based bookkeeping system for efficient record management.
